@@ -262,7 +262,7 @@
         "name": "鶴見",
         "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東海道線/鶴見"
       },
-      "type": "Feature
+      "type": "Feature",
       "geometry": {
         "type": "LineString",
         "coordinates": [

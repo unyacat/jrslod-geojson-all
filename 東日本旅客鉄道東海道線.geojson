@@ -314,7 +314,7 @@
       },
       "type": "Feature",
       "geometry": {
-        "type": "MultiLineString",
+        "type": "LineString",
         "coordinates": [
           [139.62133, 35.46475],
           [139.62179, 35.46533],

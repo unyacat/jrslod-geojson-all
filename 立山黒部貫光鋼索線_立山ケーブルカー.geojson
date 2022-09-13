@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "name": "立山",
+        "uri": "https://uedayou.net/jrslod/立山黒部貫光/鋼索線/立山"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [137.44622, 36.58304],
+          [137.44577, 36.58356]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "立山",
+        "uri": "https://uedayou.net/jrslod/立山黒部貫光/鋼索線/立山"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [137.44622, 36.58304] }
+    },
+    {
+      "properties": {
+        "name": "美女平",
+        "uri": "https://uedayou.net/jrslod/立山黒部貫光/鋼索線/美女平"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [137.45911, 36.58349],
+          [137.45843, 36.58319]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "美女平",
+        "uri": "https://uedayou.net/jrslod/立山黒部貫光/鋼索線/美女平"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [137.45911, 36.58349] }
+    },
+    {
+      "properties": {
+        "name": "鋼索線_立山ケーブルカー",
+        "uri": "https://uedayou.net/jrslod/立山黒部貫光/鋼索線"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [137.44622, 36.58304],
+            [137.44577, 36.58356]
+          ],
+          [
+            [137.45911, 36.58349],
+            [137.45843, 36.58319]
+          ],
+          [
+            [137.45843, 36.58319],
+            [137.45824, 36.58311],
+            [137.45643, 36.58233],
+            [137.45583, 36.5821],
+            [137.45444, 36.58187],
+            [137.45371, 36.5818],
+            [137.45227, 36.58171],
+            [137.44899, 36.58168],
+            [137.44817, 36.5819],
+            [137.44744, 36.58213],
+            [137.44699, 36.58232],
+            [137.44673, 36.58252],
+            [137.44644, 36.5828],
+            [137.44622, 36.58304]
+          ]
+        ]
+      }
+    }
+  ]
+}

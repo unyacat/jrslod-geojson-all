@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "name": "黒部平",
+        "uri": "https://uedayou.net/jrslod/立山黒部貫光/鋼索線/黒部平"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [137.65047, 36.56706],
+          [137.65058, 36.56705],
+          [137.65069, 36.56704]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "黒部平",
+        "uri": "https://uedayou.net/jrslod/立山黒部貫光/鋼索線/黒部平"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [137.65058, 36.56705] }
+    },
+    {
+      "properties": {
+        "name": "黒部湖",
+        "uri": "https://uedayou.net/jrslod/立山黒部貫光/鋼索線/黒部湖"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [137.65853, 36.56652],
+          [137.65842, 36.56653],
+          [137.65831, 36.56654]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "黒部湖",
+        "uri": "https://uedayou.net/jrslod/立山黒部貫光/鋼索線/黒部湖"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [137.65842, 36.56653] }
+    },
+    {
+      "properties": {
+        "name": "鋼索線_黒部ケーブルカー",
+        "uri": "https://uedayou.net/jrslod/立山黒部貫光/鋼索線"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [137.65047, 36.56706],
+            [137.65058, 36.56705],
+            [137.65069, 36.56704]
+          ],
+          [
+            [137.65831, 36.56654],
+            [137.65748, 36.56658],
+            [137.65715, 36.5666],
+            [137.65685, 36.56662],
+            [137.65617, 36.56667],
+            [137.65522, 36.56675],
+            [137.65384, 36.56683],
+            [137.65276, 36.56691],
+            [137.65133, 36.56701],
+            [137.65069, 36.56704]
+          ],
+          [
+            [137.65853, 36.56652],
+            [137.65842, 36.56653],
+            [137.65831, 36.56654]
+          ],
+        ]
+      }
+    }
+  ]
+}

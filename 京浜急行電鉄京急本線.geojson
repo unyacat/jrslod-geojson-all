@@ -3,6 +3,29 @@
   "features": [
     {
       "properties": {
+        "name": "泉岳寺",
+        "uri": "https://uedayou.net/jrslod/京浜急行電鉄/京急本線/泉岳寺",
+        "color": "00BFFF"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [139.73938, 35.63746],
+          [139.74008, 35.6388]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "泉岳寺",
+        "uri": "https://uedayou.net/jrslod/京浜急行電鉄/京急本線/泉岳寺"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.74008, 35.6388] }
+    },
+    {
+      "properties": {
         "name": "品川",
         "uri": "https://uedayou.net/jrslod/京浜急行電鉄/京急本線/品川",
         "color": "00BFFF"
@@ -1177,29 +1200,6 @@
       },
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [139.71507, 35.2519] }
-    },
-    {
-      "properties": {
-        "name": "泉岳寺",
-        "uri": "https://uedayou.net/jrslod/京浜急行電鉄/京急本線/泉岳寺",
-        "color": "00BFFF"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [139.73938, 35.63746],
-          [139.74008, 35.6388]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "泉岳寺",
-        "uri": "https://uedayou.net/jrslod/京浜急行電鉄/京急本線/泉岳寺"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.74008, 35.6388] }
     },
     {
       "properties": {

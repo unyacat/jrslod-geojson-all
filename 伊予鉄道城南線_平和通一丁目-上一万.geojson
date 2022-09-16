@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "name": "平和通一丁目",
+        "uri": "https://uedayou.net/jrslod/伊予鉄道/城南線/平和通一丁目"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [132.77431, 33.84791],
+          [132.77459, 33.84752]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "平和通一丁目",
+        "uri": "https://uedayou.net/jrslod/伊予鉄道/城南線/平和通一丁目"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [132.77431, 33.84791] }
+    },
+    {
+      "properties": {
+        "name": "上一万",
+        "uri": "https://uedayou.net/jrslod/伊予鉄道/城南線/上一万"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [132.77544, 33.84701],
+          [132.77543, 33.84661]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "上一万",
+        "uri": "https://uedayou.net/jrslod/伊予鉄道/城南線/上一万"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [132.77544, 33.84701] }
+    },
+    {
+      "properties": {
+        "name": "城南線_平和通一丁目-上一万",
+        "uri": "https://uedayou.net/jrslod/伊予鉄道/城南線"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [132.77431, 33.84791],
+            [132.77459, 33.84752]
+          ],
+          [
+            [132.77459, 33.84752],
+            [132.77462, 33.84749],
+            [132.77466, 33.84744],
+            [132.77472, 33.84742],
+            [132.77528, 33.84741],
+            [132.77536, 33.8474],
+            [132.7754, 33.84736],
+            [132.77545, 33.84724]
+          ],
+          [
+            [132.77544, 33.84701],
+            [132.77545, 33.84724]
+          ],
+          [
+            [132.77544, 33.84701],
+            [132.77543, 33.84661]
+          ]
+        ]
+      }
+    }
+  ]
+}

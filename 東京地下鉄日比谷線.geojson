@@ -402,29 +402,6 @@
     },
     {
       "properties": {
-        "name": "神谷町",
-        "uri": "https://uedayou.net/jrslod/東京地下鉄/日比谷線/神谷町",
-        "color": "8BA2AE"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [139.74419, 35.66206],
-          [139.74526, 35.66319]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "神谷町",
-        "uri": "https://uedayou.net/jrslod/東京地下鉄/日比谷線/神谷町"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.74526, 35.66319] }
-    },
-    {
-      "properties": {
         "name": "虎ノ門ヒルズ",
         "uri": "https://uedayou.net/jrslod/東京地下鉄/日比谷線/虎ノ門ヒルズ",
         "color": "8BA2AE"
@@ -445,6 +422,29 @@
       },
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [139.748, 35.66785] }
+    },
+    {
+      "properties": {
+        "name": "神谷町",
+        "uri": "https://uedayou.net/jrslod/東京地下鉄/日比谷線/神谷町",
+        "color": "8BA2AE"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [139.74419, 35.66206],
+          [139.74526, 35.66319]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "神谷町",
+        "uri": "https://uedayou.net/jrslod/東京地下鉄/日比谷線/神谷町"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.74526, 35.66319] }
     },
     {
       "properties": {

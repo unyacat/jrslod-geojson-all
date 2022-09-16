@@ -166,6 +166,29 @@
     },
     {
       "properties": {
+        "name": "久宝寺",
+        "uri": "https://uedayou.net/jrslod/西日本旅客鉄道/関西本線/久宝寺",
+        "color": "F77321"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [135.58523, 34.62208],
+          [135.58364, 34.62259]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "久宝寺",
+        "uri": "https://uedayou.net/jrslod/西日本旅客鉄道/関西本線/久宝寺"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.58364, 34.62259] }
+    },
+    {
+      "properties": {
         "name": "おおさか東線_放出-久宝寺",
         "uri": "https://uedayou.net/jrslod/西日本旅客鉄道/おおさか東線",
         "color": "335099"
@@ -260,6 +283,10 @@
             [135.58121, 34.6234],
             [135.58288, 34.6229],
             [135.58364, 34.62259]
+          ],
+          [
+            [135.58364, 34.62259],
+            [135.58523, 34.62208]
           ]
         ]
       }

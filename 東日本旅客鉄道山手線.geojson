@@ -3,161 +3,6 @@
   "features": [
     {
       "properties": {
-        "name": "東京",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東海道線/東京"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [139.76778, 35.68294],
-            [139.7678, 35.68112],
-            [139.76708, 35.67945]
-          ],
-          [
-            [139.76663, 35.67955],
-            [139.76728, 35.68105],
-            [139.76778, 35.68294]
-          ],
-          [
-            [139.76491, 35.68098],
-            [139.76528, 35.68159],
-            [139.76591, 35.68245]
-          ],
-          [
-            [139.76716, 35.68228],
-            [139.76621, 35.67965]
-          ]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "東京",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東海道線/東京"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.76528, 35.68159] }
-    },
-    {
-      "properties": {
-        "name": "有楽町",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東海道線/有楽町"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [139.76254, 35.67448],
-          [139.76398, 35.6756]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "有楽町",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東海道線/有楽町"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.76254, 35.67448] }
-    },
-    {
-      "properties": {
-        "name": "新橋",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東海道線/新橋"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [139.75814, 35.6672],
-            [139.75826, 35.66558]
-          ],
-          [
-            [139.7588, 35.66539],
-            [139.75866, 35.66702]
-          ]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "新橋",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東海道線/新橋"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.75814, 35.6672] }
-    },
-    {
-      "properties": {
-        "name": "浜松町",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東海道線/浜松町"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [139.75728, 35.65614],
-          [139.75697, 35.65468]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "浜松町",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東海道線/浜松町"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.75728, 35.65614] }
-    },
-    {
-      "properties": {
-        "name": "田町",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東海道線/田町"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [139.74824, 35.64611],
-          [139.74697, 35.64537]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "田町",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東海道線/田町"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.74824, 35.64611] }
-    },
-    {
-      "properties": {
-        "name": "高輪ゲートウェイ",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東海道線/高輪ゲートウェイ"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [139.740237, 35.63443],
-          [139.741052, 35.636328]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "高輪ゲートウェイ",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東海道線/高輪ゲートウェイ"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.740237, 35.63443] }
-    },
-    {
-      "properties": {
         "name": "品川",
         "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/山手線/品川",
         "color": "9ACD32"
@@ -361,30 +206,10 @@
       },
       "type": "Feature",
       "geometry": {
-        "type": "MultiLineString",
+        "type": "LineString",
         "coordinates": [
-          [
-            [139.70004, 35.69167],
-            [139.70024, 35.68926]
-          ],
-          [
-            [139.7006, 35.68995],
-            [139.70004, 35.69167]
-          ],
-          [
-            [139.70125, 35.6879],
-            [139.70091, 35.68894],
-            [139.70089, 35.68902],
-            [139.70078, 35.68935],
-            [139.7006, 35.68995]
-          ],
-          [
-            [139.70068, 35.69107],
-            [139.70116, 35.68942],
-            [139.70125, 35.68909],
-            [139.70127, 35.68902],
-            [139.70176, 35.68735]
-          ]
+          [139.70004, 35.69167],
+          [139.70024, 35.68926]
         ]
       }
     },
@@ -585,189 +410,6 @@
     },
     {
       "properties": {
-        "name": "西日暮里",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/西日暮里"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [139.76626, 35.73289],
-          [139.76656, 35.73241],
-          [139.76675, 35.73213],
-          [139.76729, 35.73127]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "西日暮里",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/西日暮里"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.76675, 35.73213] }
-    },
-    {
-      "properties": {
-        "name": "日暮里",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/日暮里"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [139.77196, 35.72734],
-            [139.77092, 35.72822],
-            [139.77069, 35.7284]
-          ],
-          [
-            [139.77015, 35.72799],
-            [139.77016, 35.72798],
-            [139.77037, 35.7278],
-            [139.77093, 35.7273],
-            [139.7712, 35.7271],
-            [139.77145, 35.72691],
-            [139.77188, 35.72667]
-          ]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "日暮里",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/日暮里"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.77092, 35.72822] }
-    },
-    {
-      "properties": {
-        "name": "鶯谷",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/鶯谷"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [139.77741, 35.72206],
-          [139.77865, 35.72085]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "鶯谷",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/鶯谷"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.77741, 35.72206] }
-    },
-    {
-      "properties": {
-        "name": "上野",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/上野"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [139.77664, 35.71439],
-            [139.77507, 35.71205]
-          ],
-          [
-            [139.77573, 35.71239],
-            [139.77664, 35.71439]
-          ],
-          [
-            [139.77832, 35.71559],
-            [139.77606, 35.7124],
-            [139.77754, 35.715]
-          ],
-          [
-            [139.7766, 35.71262],
-            [139.77842, 35.71511]
-          ]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "上野",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/上野"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.77507, 35.71205] }
-    },
-    {
-      "properties": {
-        "name": "御徒町",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/御徒町"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [139.77457, 35.70632],
-          [139.77486, 35.70807]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "御徒町",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/御徒町"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.77486, 35.70807] }
-    },
-    {
-      "properties": {
-        "name": "秋葉原",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/秋葉原"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [139.77317, 35.69935],
-          [139.77292, 35.69772]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "秋葉原",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/秋葉原"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.77317, 35.69935] }
-    },
-    {
-      "properties": {
-        "name": "神田",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/神田"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [139.77054, 35.69096],
-          [139.77121, 35.69258]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "神田",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/東北本線/神田"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [139.77054, 35.69096] }
-    },
-    {
-      "properties": {
         "name": "山手線",
         "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/山手線",
         "color": "9ACD32"
@@ -912,10 +554,6 @@
             [139.70203, 35.6845]
           ],
           [
-            [139.70176, 35.68735],
-            [139.70222, 35.68555]
-          ],
-          [
             [139.70019, 35.70011],
             [139.70006, 35.6989],
             [139.69999, 35.69828],
@@ -956,12 +594,6 @@
             [139.70251, 35.67042]
           ],
           [
-            [139.70125, 35.6879],
-            [139.70148, 35.68712],
-            [139.70171, 35.68665],
-            [139.70222, 35.68555]
-          ],
-          [
             [139.70295, 35.6722],
             [139.70345, 35.67338],
             [139.70399, 35.67489],
@@ -974,17 +606,6 @@
           [
             [139.70004, 35.69167],
             [139.70024, 35.68926]
-          ],
-          [
-            [139.7006, 35.68995],
-            [139.70004, 35.69167]
-          ],
-          [
-            [139.70125, 35.6879],
-            [139.70091, 35.68894],
-            [139.70089, 35.68902],
-            [139.70078, 35.68935],
-            [139.7006, 35.68995]
           ],
           [
             [139.70203, 35.6845],
@@ -1010,13 +631,6 @@
             [139.70295, 35.6722]
           ],
           [
-            [139.70068, 35.69107],
-            [139.70116, 35.68942],
-            [139.70125, 35.68909],
-            [139.70127, 35.68902],
-            [139.70176, 35.68735]
-          ],
-          [
             [139.70342, 35.71171],
             [139.70298, 35.71048],
             [139.7027, 35.70967],
@@ -1026,16 +640,6 @@
             [139.70054, 35.70322],
             [139.70038, 35.70221],
             [139.70032, 35.70175]
-          ],
-          [
-            [139.70222, 35.68555],
-            [139.70272, 35.68355],
-            [139.70302, 35.68239],
-            [139.70325, 35.68148],
-            [139.70348, 35.68058],
-            [139.70353, 35.68039],
-            [139.70377, 35.67936],
-            [139.70384, 35.67842]
           ],
           [
             [139.72888, 35.61912],

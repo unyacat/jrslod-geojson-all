@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "name": "海芝浦",
+        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/鶴見線/海芝浦",
+        "color": "FFFF00"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [139.70029, 35.48597],
+          [139.70106, 35.48629]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "海芝浦",
+        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/鶴見線/海芝浦"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.70029, 35.48597] }
+    },
+    {
+      "properties": {
+        "name": "新芝浦",
+        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/鶴見線/新芝浦",
+        "color": "FFFF00"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [139.7004, 35.4915],
+          [139.69985, 35.49233]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "新芝浦",
+        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/鶴見線/新芝浦"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.7004, 35.4915] }
+    },
+    {
+      "properties": {
+        "name": "浅野",
+        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/鶴見線/浅野",
+        "color": "FFFF00"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [139.69542, 35.49731],
+          [139.69607, 35.49726]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "浅野",
+        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/鶴見線/浅野"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.69542, 35.49731] }
+    },
+    {
+      "properties": {
+        "name": "鶴見線_浅野-海芝浦",
+        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/鶴見線",
+        "color": "FFFF00"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [139.70029, 35.48597],
+            [139.70106, 35.48629]
+          ],
+          [
+            [139.70106, 35.48629],
+            [139.70149, 35.48648],
+            [139.70163, 35.48653],
+            [139.70194, 35.48668],
+            [139.7021, 35.48679],
+            [139.70221, 35.48688],
+            [139.70232, 35.487],
+            [139.70242, 35.48713],
+            [139.70252, 35.48727],
+            [139.70258, 35.48739],
+            [139.70264, 35.48759],
+            [139.70264, 35.48783],
+            [139.70262, 35.48799],
+            [139.70257, 35.48816],
+            [139.70247, 35.48838],
+            [139.7004, 35.4915]
+          ],
+          [
+            [139.7004, 35.4915],
+            [139.69985, 35.49233]
+          ],
+          [
+            [139.69985, 35.49233],
+            [139.69977, 35.49245],
+            [139.69707, 35.49657],
+            [139.69689, 35.49679],
+            [139.69673, 35.49694],
+            [139.69662, 35.49702],
+            [139.69644, 35.49714],
+            [139.69632, 35.49719],
+            [139.69617, 35.49723],
+            [139.69607, 35.49726]
+          ]
+        ]
+      }
+    }
+  ]
+}

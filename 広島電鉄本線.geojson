@@ -181,6 +181,28 @@
     },
     {
       "properties": {
+        "name": "紙屋町東",
+        "uri": "https://uedayou.net/jrslod/広島電鉄/本線/紙屋町東"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [132.45857, 34.39491],
+          [132.45804, 34.39504]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "紙屋町東",
+        "uri": "https://uedayou.net/jrslod/広島電鉄/本線/紙屋町東"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [132.45804, 34.39504] }
+    },
+    {
+      "properties": {
         "name": "紙屋町西",
         "uri": "https://uedayou.net/jrslod/広島電鉄/本線/紙屋町西"
       },
@@ -426,28 +448,6 @@
       },
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [132.428027, 34.396879] }
-    },
-    {
-      "properties": {
-        "name": "紙屋町東",
-        "uri": "https://uedayou.net/jrslod/広島電鉄/本線/紙屋町東"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [132.45857, 34.39491],
-          [132.45804, 34.39504]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "紙屋町東",
-        "uri": "https://uedayou.net/jrslod/広島電鉄/本線/紙屋町東"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [132.45804, 34.39504] }
     },
     {
       "properties": {

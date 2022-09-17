@@ -684,52 +684,6 @@
     },
     {
       "properties": {
-        "name": "浦上",
-        "uri": "https://uedayou.net/jrslod/九州旅客鉄道/長崎本線/浦上",
-        "color": "FF0000"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [129.86346, 32.76438],
-          [129.86311, 32.76651]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "浦上",
-        "uri": "https://uedayou.net/jrslod/九州旅客鉄道/長崎本線/浦上"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [129.86346, 32.76438] }
-    },
-    {
-      "properties": {
-        "name": "長崎",
-        "uri": "https://uedayou.net/jrslod/九州旅客鉄道/長崎本線/長崎",
-        "color": "FF0000"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [129.86967, 32.75431],
-          [129.86928, 32.75499]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "長崎",
-        "uri": "https://uedayou.net/jrslod/九州旅客鉄道/長崎本線/長崎"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [129.86967, 32.75431] }
-    },
-    {
-      "properties": {
         "name": "市布",
         "uri": "https://uedayou.net/jrslod/九州旅客鉄道/長崎本線/市布",
         "color": "FF0000"
@@ -798,6 +752,52 @@
       },
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [129.92533, 32.79102] }
+    },
+    {
+      "properties": {
+        "name": "浦上",
+        "uri": "https://uedayou.net/jrslod/九州旅客鉄道/長崎本線/浦上",
+        "color": "FF0000"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [129.86346, 32.76438],
+          [129.86311, 32.76651]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "浦上",
+        "uri": "https://uedayou.net/jrslod/九州旅客鉄道/長崎本線/浦上"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [129.86346, 32.76438] }
+    },
+    {
+      "properties": {
+        "name": "長崎",
+        "uri": "https://uedayou.net/jrslod/九州旅客鉄道/長崎本線/長崎",
+        "color": "FF0000"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [129.86967, 32.75431],
+          [129.86928, 32.75499]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "長崎",
+        "uri": "https://uedayou.net/jrslod/九州旅客鉄道/長崎本線/長崎"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [129.86967, 32.75431] }
     },
     {
       "properties": {

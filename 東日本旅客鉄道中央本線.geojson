@@ -1634,29 +1634,6 @@
     },
     {
       "properties": {
-        "name": "塩尻",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/中央本線/塩尻",
-        "color": "0B8E0E"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [137.94783, 36.1139],
-          [137.94792, 36.11571]
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "塩尻",
-        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/中央本線/塩尻"
-      },
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [137.94792, 36.11571] }
-    },
-    {
-      "properties": {
         "name": "みどり湖",
         "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/中央本線/みどり湖",
         "color": "0B8E0E"
@@ -1677,6 +1654,29 @@
       },
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [137.98105, 36.09504] }
+    },
+    {
+      "properties": {
+        "name": "塩尻",
+        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/中央本線/塩尻",
+        "color": "0B8E0E"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [137.94783, 36.1139],
+          [137.94792, 36.11571]
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "塩尻",
+        "uri": "https://uedayou.net/jrslod/東日本旅客鉄道/中央本線/塩尻"
+      },
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [137.94792, 36.11571] }
     },
     {
       "properties": {
@@ -5959,6 +5959,24 @@
             [139.74421, 35.70091],
             [139.7437, 35.70019],
             [139.74303, 35.6994]
+          ],
+          [
+            [138.03884, 36.05327],
+            [138.03917, 36.0535],
+            [138.03976, 36.05395],
+            [138.04011, 36.05419],
+            [138.04035, 36.05436],
+            [138.0408, 36.05463],
+            [138.04172, 36.05508],
+            [138.04194, 36.0552],
+            [138.0424, 36.05545],
+            [138.04279, 36.05564],
+            [138.04321, 36.05585],
+            [138.04385, 36.05617]
+          ],
+          [
+            [138.04638, 36.05735],
+            [138.04385, 36.05617]
           ]
         ]
       }
